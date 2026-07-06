@@ -6,7 +6,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red.svg)
 ![Torchvision](https://img.shields.io/badge/Torchvision-Latest-orange.svg)
 ![Computer Vision](https://img.shields.io/badge/Computer-Vision-green.svg)
-![Self-Supervised Learning](https://img.shields.io/badge/Self-Supervised-Learning-purple.svg)
+![Self-Supervised Learning](https://img.shields.io/badge/Self--Supervised%20Learning-SimCLR-purple)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ### Self-Supervised Industrial Defect Detection using Contrastive Learning and Multi-Scale Feature Representation
